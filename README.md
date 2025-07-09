@@ -1,1 +1,0 @@
-# MongoDB-Practice-2
